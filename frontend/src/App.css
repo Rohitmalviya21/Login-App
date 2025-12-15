@@ -1,0 +1,84 @@
+.first-box .card {
+    height: auto;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px !important;
+    text-align: center;
+    border: none;
+  
+}
+.first-box input[type=text],
+.first-box input[type=password],
+.first-box input[type=email] {
+    padding: 15px;
+    font-size: 17px;
+    box-shadow: none;
+    border-radius: 0;
+    border: 1px solid black;
+}
+.first-box .btn {
+    color: white;
+    background-color: rgba(81, 132, 243, 0.895);
+    width: 90%;
+    padding: 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 0;
+}
+.first-box .btn:hover {
+    color: white;
+    background-color: orange;
+}
+.first-box a {
+    text-decoration: none;
+    color: red;
+}
+.first-box .btn1 {
+    color: red;
+    background-color: white;
+    border: none;
+}
+.second-box .card {
+    height: auto;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px !important;
+    text-align: center;
+    border: none;
+  
+}
+.second-box input[type=text],
+.second-box input[type=email],
+.second-box input[type=password] {
+    padding: 12px;
+    font-size: 17px;
+    box-shadow: none;
+    border-radius: 0;
+    border: 1px solid black;
+}
+.second-box .btn {
+    color: white;
+    background-color: rgba(81, 132, 243, 0.895);
+    width: 90%;
+    padding: 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 0;
+}
+.second-box .btn:hover {
+    color: white;
+    background-color: orange;
+}
+.second-box a {
+    text-decoration: none;
+    color: red;
+}
+.second-box .btn1 {
+    color: red;
+    background-color: white;
+    border: none;
+}
+.second-box input[type=file] {
+    display: none;
+}
+.second-box .profile-card input{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px !important;
+    border: none;
+
+}
